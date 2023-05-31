@@ -1,4 +1,4 @@
-# Meal Prep Assistant
+# Meal Prep App
 
 This application is designed to assist users with meal preparation by utilizing the MealDB API and the Room library. Developed in Android Studio, it allows users to access information about various meals and save their details in a local SQLite database using the Room library. The application is built using the standard Android API libraries and provides a seamless user experience for meal planning and organization.
 Features
